@@ -16,7 +16,7 @@ export type Surface =
   | 'vote'
   | 'document'
   | 'suggestions';
-
+WHAT THE JHSXKJHDSJK LKJHFILJAFSDDSSAFADFSDSDSHJKLADS  KJHSHKJADSHKLH KHGHJKDSHJK JKJHKJADSDS
 export type ErrorCode = `${ErrorType}:${Surface}`;
 
 export type ErrorVisibility = 'response' | 'log' | 'none';
